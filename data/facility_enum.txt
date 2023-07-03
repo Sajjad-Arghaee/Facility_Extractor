@@ -1,0 +1,710 @@
+code	text
+10#18	 Located on main road
+10#20	Year of construction
+10#24	Garden (m²)
+10#25	 Terrace (m²)
+10#30	Year of most recent renovation
+10#40	Annexe (s)
+10#50	Number of floors (main building)
+10#56	Connecting rooms
+10#60	Number of floors (annexe)
+10#70	Total number of rooms
+10#80	Single rooms
+10#90	Double rooms
+10#95	Junior suites
+10#100	Suites
+10#110	Apartments
+10#115	Studios
+10#120	Bungalows
+10#123	Villas
+10#124	Disability-friendly rooms
+10#126	Triple rooms
+10#127	Quadruple rooms
+10#128	Executive rooms
+10#129	Superior rooms
+10#131	Family rooms
+10#132	Twin rooms
+10#998	YES Connecting rooms
+10#2091	 Quiet location
+10#2251	 Adults-only hotel
+20#10	hotel
+20#25	aparthotel
+20#31	 City Hotel
+20#32	 Beach Hotel
+20#30	apartment
+20#34	 Bungalow Complex
+20#50	guest house
+20#36	 Country House
+20#38	 Ski Hotel 
+20#39	 Club Resort
+20#40	 Finca
+20#41	 Village
+20#42	 Spa Hotel
+20#43	 Golf Hotel
+20#44	 Casino Resort
+20#45	 Airport Hotel
+20#46	 Eco Hotel
+20#380	luxurious historic hotel
+20#48	 Conference Hotel
+20#160	hostel
+20#49	 Hotel de Charme
+20#60	rural house
+20#70	resort
+20#51	 Mountain Hotel
+20#52	 Mountain Hut
+20#202	 Family-friendly Hotel
+20#220	lodge
+20#250	camping
+20#260	botel
+20#270	cruise
+20#300	vacation condo or apartment
+20#310	vacation home or villa
+20#320	vacation townhouse
+20#330	vacation resort
+20#340	riad
+20#350	motel
+20#360	bed and breakfast
+20#370	boutique hotel
+20#203	 Business Hotel
+20#390	pousada
+20#400	residence
+20#410	rural hotel
+20#420	boat
+30#10	American Express
+30#60	Visa
+30#50	MasterCard
+30#40	Diners Club
+30#30	JCB
+30#20	EC
+30#80	Maestro
+30#90	Visa ElectrÃ³n
+30#110	EuroCard
+30#115	Euro 6000
+40#10	City centre
+40#20	Nearest Bus / Metro Stop
+40#1002	 Tourist Centre
+40#70	Harbour
+40#80	Airport
+40#125	Entertainment Area
+40#40	Beach
+40#145	Bus/Train station
+40#1004	 Sea
+40#1005	 Lake
+40#1006	 River
+40#1007	 Forest
+40#1008	 Park
+40#1009	 Shopping opportunities
+40#1010	 Restaurants
+40#1011	 Bars / Pubs
+40#1012	 Nightclub
+40#130	Golf course
+40#1014	 Public Transport
+40#1015	 Bus Station
+40#1016	 Train Station
+40#160	Ski slopes
+40#1018	 Ski Lift
+40#1019	 Cross-Country Skiing
+40#1020	 Underground/Over ground Station
+60#10	Bathroom
+60#11	Private external bathroom
+60#20	Shower
+60#30	Bathtub
+60#109	 Bidet
+60#40	Hairdryer
+60#50	Direct dial telephone
+60#289	Cable TV
+60#314	Garden
+60#80	Radio
+60#90	Hi-fi
+60#100	Internet access
+60#110	Kitchenette
+60#111	Kitchen utensils, plates & cups
+60#115	Kitchen
+60#120	Minibar
+60#130	Fridge
+60#119	 King-size Bed
+60#121	 Tiling
+60#160	Carpeted floors
+60#170	Centrally regulated air conditioning
+60#190	Central heating
+60#135	Mini fridge
+60#313	Indoor swimming pool
+60#137	Cooker
+60#306	Outdoor swimming pool
+60#200	Safe
+60#125	 Final Cleaning
+60#126	 Lounge
+60#147	Ironing set
+60#127	 Balcony/Terrace
+60#55	TV
+60#205	 Double Bed
+60#180	Individually adjustable air conditioning
+60#195	Individually adjustable heating 
+60#319	Oven
+60#140	Microwave
+60#220	Living room
+60#230	Balcony
+60#231	French Balcony
+60#240	Terrace
+60#143	Tea and coffee making facilities 
+60#260	Disability-friendly bathroom
+60#261	Wi-fi
+60#262	Wake-up service
+60#263	Pillow menu
+60#264	Cot on demand
+60#265	Bluetooth speaker
+60#266	Turndown service
+60#268	220V power supply
+60#269	Hydro-massage bath
+60#270	CD player 
+60#271	DVD player
+60#272	Pay movies
+60#273	Alarm clock
+60#274	Video games console
+60#275	Extra beds on demand
+60#276	Toiletries
+60#277	Background music
+60#279	Desk
+60#280	Bathrobes
+60#281	Slippers
+60#282	Make-up mirror
+60#283	Trouser press
+60#285	Welcome pack
+60#286	Fan
+60#287	Smoking rooms
+60#288	Satellite TV 
+60#145	Washing machine
+60#290	Dishwasher
+60#315	Game room
+60#292	Plug adaptor
+60#293	Towel menu
+60#295	Room size (sqm)
+60#296	Fireplace
+60#297	Smoke detector
+60#298	Number of bedrooms
+60#299	Shared bathroom
+60#300	Housekeeping
+60#301	Oxygen enrichment
+60#302	Children share the bed with parents
+60#303	Soundproof room
+60#304	Telephone in the bathroom
+60#305	Hot tub
+60#307	Sauna
+60#308	Fitness room
+60#309	Billiards
+60#310	Turkish steam bath
+60#312	Solarium
+60#316	Darts
+60#317	Children playground
+60#318	Toaster
+60#250	Wheelchair-accessible
+60#320	Dining Area
+60#321	Clothes Dryer
+60#322	BBQ Facilities
+60#323	Ski to Door Acces
+60#324	Grill/BBQ
+60#325	Ski Storage
+60#311	Table tennis
+60#326	Private Pool
+60#327	Towels and bed linen at surcharge
+60#328	Private Beach Area
+60#329	Library
+60#330	Electric Kettle
+60#331	Bikes Available
+60#332	Without windows
+61#1	Single bed 80-130 width
+61#150	Double bed 131-150 width
+61#155	King-size bed 150-183 width
+61#284	Sofa bed
+61#294	Queen-size bed 150-154 width
+61#992	Rollaways on demand
+61#993	Bunk beds
+62#1	Single bed 80-130 width
+62#150	Double bed 131-150 width
+62#155	King-size bed 150-183 width
+62#284	Sofa bed
+62#294	Queen-size bed 150-154 width
+62#992	Rollaways on demand
+62#993	Bunk beds
+70#10	Air conditioning in public areas
+70#11	Fireplace
+70#12	Smoke detector
+70#67	 Air conditioning
+70#68	 Lobby
+70#30	24-hour reception
+70#71	 24-hour check-in
+70#40	Hotel safe
+70#50	Currency exchange facilities
+70#60	Cloakroom
+70#74	 Foyer
+70#70	Lift access
+70#90	Newspaper stand
+70#78	 Small supermarket
+70#110	Shop
+70#80	 Hairdresser
+70#81	 Bar(s)
+70#84	 Theatre
+70#430	Sun terrace
+70#88	 Restaurant(s)
+70#89	 Restaurant(s) with air conditioning 
+70#93	 Restaurant(s) with non-smoking area
+70#91	 Restaurant(s) with high-chairs
+70#240	Mobile phone coverage
+70#94	 Internet access
+70#470	Gym
+70#95	 WLAN access
+70#100	Supermarket
+70#270	Room service
+70#280	Laundry service
+70#290	Medical service
+70#125	Garden
+70#135	Terrace
+70#300	Bicycle storage
+70#210	Key Collection
+70#310	Bicycle hire service
+70#320	Car park
+70#330	Garage
+70#250	Wired Internet
+70#260	Check-in hour
+70#285	Launderette
+70#194	 TV Room
+70#216	 Restaurant(s) with smoking area
+70#217	 Laundry Facilities
+70#321	Electric vehicle charging station
+70#2053	 Pets
+70#390	Check-out hour
+70#475	Day-care centre
+70#485	Babysitting service
+70#490	Car hire
+70#495	Transfer service
+70#500	Secure parking
+70#505	Multilingual staff
+70#515	Newspapers
+70#520	24-hour security
+70#525	Bellboy service
+70#535	Small pets allowed (under 5 kg)
+70#540	Large pets allowed (over 5 kg)
+70#545	Golf desk
+70#550	Wi-fi
+70#556	Local and international calls
+70#559	Luggage room
+70#560	Valet parking
+70#562	Airport Shuttle
+70#564	Late Check-out
+70#565	Toaster
+70#566	Oven
+70#567	Dining area
+70#568	Clothes dryer
+70#569	BBQ facilities
+70#570	Ski to door acces
+70#571	Grill/BBQ
+70#572	Ski storage
+70#573	Private pool
+70#574	Private beach area
+70#575	Library
+70#576	Electric kettle
+70#577	Bikes available
+70#578	Towels and bed linen
+70#579	Hotelâ€™s own bike shop/workshop
+70#580	Partnerâ€™s bike shop/workshop
+70#585	Concierge
+70#295	Wheelchair-accessible
+71#80	CafÃ©
+71#130	Bar
+71#200	Restaurant
+71#220	Non-smoking area
+71#225	Smoking area
+71#230	Highchairs
+71#555	Poolside snack bar
+71#560	Banquet hall
+71#565	Show cooking
+71#570	Swim-up bar
+71#575	Air conditioning in Restaurant
+71#580	Breakfast room
+71#585	24h dining cafÃ©
+71#590	Rooftop bar
+72#610	Fax
+72#170	Conference room
+72#575	Meeting room
+72#580	Projector
+72#590	Conference hostess
+72#595	Secretarial service
+72#600	Photocopier
+72#605	Business centre
+72#620	Printer
+72#630	Audio-visual equipment rental
+73#140	Pub
+73#149	Pool bar
+73#150	Nightclub
+73#160	Theatre / auditorium
+73#180	Casino
+73#395	Sun loungers
+73#400	Parasols
+73#190	Game room
+73#193	TV lounge
+73#340	Kidsâ€™ club
+73#350	Children playground
+73#360	Indoor freshwater pool
+73#361	Indoor saltwater pool
+73#362	Indoor heated pool
+73#363	Outdoor freshwater pool
+73#364	Outdoor saltwater pool
+73#365	Outdoor heated pool
+73#385	Childrenâ€™s swimming area
+73#401	Entertainment programme for adults
+73#405	Entertainment programme for children
+73#610	WaterSlides
+73#615	Outdoor Rooftop Swimming Pool
+73#620	Waterpark
+74#120	Hairdressing salon
+74#420	Sauna
+74#440	Steam bath
+74#450	Massage
+74#410	Hot tub
+74#425	Solarium 
+74#460	Spa treatments
+74#615	Beauty salon
+74#620	Spa centre
+74#630	Turkish bath (hamam)
+75#635	Green Globe 21 
+75#640	Earth Check
+75#645	Travelife
+75#650	Green Star
+75#660	Biosphere Certification - Responsible Tourism Institute (ITR)
+75#665	Global Ecosphere Retreats (GER)
+75#670	GREAT Green Deal Certification
+75#675	Green Growth 2050
+75#680	Green Key â€“ Foundation for Environmental Education (FEE)
+75#685	Green Tourism Active
+75#690	Hostelling Internationalâ€™s Quality and Sustainability Standard
+75#695	Preferred by Nature
+75#840	ISO 50001 â€“ Energy management
+75#845	ISO 14001 â€“ Environmental management
+75#850	Green Key Global
+75#855	Bureau Veritas
+75#860	Control Union
+75#865	United Certification Systems Limited
+75#870	Vireo Srl
+75#875	Wyndham Green Certification
+75#880	IHG Green Hotel Certificate
+75#881	Planet 21 â€“ Accor
+75#885	Hilton LightStay
+75#890	GreenSign
+75#895	GreenStep
+75#900	Greenview Portal
+76#695	Austrian Ecolabel (Umweltzeichen fÃ¼r Tourismusbetriebe) 
+76#700	European Ecotourism Labeling Standard (EETLS)
+76#740	ECO Certification Malta 
+76#741	TourCert
+76#750	Sustainable Travel Ireland
+76#751	EcoWorldHotel
+77#755	CST â€“ Costa Rica 
+77#760	Actively Green â€“ USA
+77#765	Hoteles mÃ¡s verdes â€“ Argentina
+77#770	SERNATUR Chile
+77#775	Adventure Green Alaska Standards
+77#780	Adventure green Alaska Standards
+78#810	EcoCertification (EA) â€“ Australia
+78#815	Asian Ecotourism Standard for Accommodations
+78#820	Ecotourism Australia
+78#825	TOFTigers Initiativeâ€™s Pug mark Eco Certification
+78#830	Centara Earthcare
+78#835	Sakura Quality An ESG Practice Standard
+79#685	GT-Active
+79#830	FTTSA â€“ South Africa 
+79#835	Ecotourism Kenya
+79#840	Green Star Hotel Certificate â€“ Egypt
+79#845	Mauritian Standard on Sustainable Tourism
+79#850	Seychelles Sustainable Tourism Label (SSTL)
+80#262	Half Board
+80#261	Full board
+80#30	Breakfast buffet
+80#40	Breakfast
+80#50	Buffet lunch
+80#60	Ã€ la carte lunch
+80#70	Set menu lunch
+80#136	 Evening Buffet
+80#90	Ã€ la carte dinner
+80#100	Set menu dinner
+80#263	All inclusive
+80#140	 Drinks Included
+80#130	Special dietary options
+80#142	 Special Offers
+80#35	Continental breakfast
+80#11	Breakfast and dinner
+80#12	Breakfast and lunch
+80#80	Buffet dinner
+80#114	Snacks
+80#160	Early bird breakfast
+80#170	Late riser breakfast
+80#180	Hot breakfast
+80#200	Breakfast served to the table
+80#210	Picnic
+80#220	Brunch
+80#230	Gluten-free meals 
+80#240	No alcohol is served
+80#250	Vegetarian meal
+80#251	Half board without drinks
+80#252	Half board with non-alcoholic drinks
+80#253	Half board with drinks
+80#254	Full board without drinks
+80#255	Full board with non-alcoholic drinks
+80#256	Full board with drinks
+80#257	All inclusive without drinks
+80#258	All inclusive with non-alcoholic drinks
+80#259	All inclusive with alcoholic drinks own brands
+80#260	All inclusive with alcoholic drinks top brands
+80#264	Breakfast a la carte
+80#265	Gala dinner
+85#1	LGTBIQ friendly
+85#2	Naturist
+85#3	No hen/stag or any other parties allowed
+85#130	Flight information required
+85#203	Only Adults
+85#551	Charges for late arrival
+85#552	Early Check-in
+85#554	Early departure
+85#557	Identification card at arrival
+85#558	Marriage certificate required for a couple to share room
+85#561	Deposit on arrival
+85#562	Non-smoking establishment
+85#563	Children get free accommodation, meals payable on the spot
+85#564	Minimum check-in age
+85#565	Credit card is compulsory as a deposit, no deposit in cash is accepted
+85#570	Self check-in
+85#575	Online check-in
+85#576	Online Check-out
+85#577	Single-Use Plastic Free
+85#578	Cash Free
+90#90	Aqua fit
+90#146	 Swimming Pool
+90#147	 Saltwater Pool
+90#148	 Children\'s Pool
+90#152	 Aqua aerobics
+90#153	 Jacuzzi
+90#190	Motor board ride
+90#158	 Special spa package
+90#160	Banana boating
+90#170	Waterskiing
+90#180	Jet ski
+90#162	 Speed Boating
+90#200	Diving
+90#410	Surfing
+90#210	Windsurfing
+90#230	Catamaran sailing
+90#220	Sailing
+90#167	 Catamaran
+90#240	Canoeing
+90#250	Pedal boating
+90#260	Table tennis
+90#270	Squash
+90#280	Aerobics
+90#295	Fitness
+90#300	Archery
+90#310	Horse riding
+90#320	Cycling / mountain biking
+90#330	Basketball
+90#340	Beach volleyball
+90#325	Handball
+90#350	Billiards
+90#335	Volleyball
+90#360	Bocce
+90#370	Bowling alley
+90#380	Mini golf
+90#390	Golf
+90#184	 Entertainment Programme
+90#185	 Children\'s Entertainment
+90#430	Tennis
+90#450	Badminton
+90#198	 Number of Pools
+90#202	 Heated Pool(s)
+90#201	 Aerobics
+90#440	Paddle tennis
+90#460	Darts
+90#219	 Tanning Studio/Solarium
+90#470	Putting green
+90#480	Snowboarding
+90#490	Skiing
+90#500	Tobogganing
+90#510	Ski pass
+90#520	Golf practice facility
+90#530	Safari
+90#540	Football
+91#1	Barcelo - We care about you
+91#2485	 Health questionnaire
+91#2486	 Protective hygiene screens
+91#4	IHG - Clean Promise
+91#5	Wyndham - Count on us
+91#6	Best Western - We Care Clean
+91#7	Choice Hotels - Commitment to Clean
+91#8	Hyatt - GBAC STAR Global Care & Cleanliness Commitment
+91#9	Radisson - Radisson Safety Protocol
+91#10	RIU - Covid-19 Health Protocol
+91#11	NH - Feel safe at NH
+91#12	Louvre - Charte of Commitment
+91#13	Eurostars- Clean & Safe
+91#14	MGM - Seven-Points Safety plan
+91#15	MeliÃ¡ - Stay Safe with MeliÃ¡
+91#16	Blue Sea - Safety and Hygiene Measures
+91#17	[Category] Category (Recommended)
+91#18	Scandic -  StaySafe at Scandic
+91#19	Leonardo - Hotel Stay Guidelines
+91#20	Crystal - Hygienic Concept
+91#21	Catalonia - Global Commitment to Safeguard our guests
+91#22	Ona - Security and Hygiene Protocol
+91#23	H10 - Safety Program by H10
+91#24	Iberostar - How we care
+91#25	Kempinski - White Glove
+91#26	Red Roof - RediClean
+91#27	Red Lion - Safe Stay
+91#28	Best Hotels - Blue Health
+91#29	Four Seasons - Lead With Care
+91#30	Blue Diamond Resorts - Enhanced Health, Safety & Cleanliness Protocols
+91#31	Valamar - V-Health & Safety
+91#32	Costa Rica - ICT-P-001 Protocolo para actividades de hospedaje. Sector Turismo
+91#33	Italy - Protocollo nazionale "Accoglienza Sicura"
+91#2487	 Social distancing regulations
+91#35	Spain - UNE 0066-1
+91#36	Bulgaria - Protocol for operation of accommodation and catering
+91#37	France - Protocole de dÃ©confinement commun Ã  toute la profession HCR
+91#38	Malta - Procedures to re-introduce operations in Accommodation Establishments
+91#39	Northern Cyprus - Opening conditions after coronavirus in accomodation facilities and beach
+91#40	Colombia - Check in certificado, COVID-19 bioseguro
+91#2488	 Mandatory mask-wearing
+91#2489	 Enhanced cleaning programme
+91#2490	 Contactless payment
+91#2491	 Contactless check-in/-out
+91#2492	 Protective masks for guests
+91#2493	 Hand sanitiser
+91#2494	 Medical teleconsultation
+91#2495	 Digital menu (mobile phone)
+91#2496	 Restricted buffet service
+91#2497	 No buffet service
+91#2498	 Contactless room service
+91#2499	 Room service free of charge
+91#2500	 Housekeeping only upon request
+91#2	Accor - ALLSAFE
+91#3	Hilton - CleanStay
+91#34	USA - AHLA - Safe Stay
+91#64	Robinson - TUI ten-point plan
+91#2505	 Hygiene plan (Enchilada)
+91#2506	 CLEAN 2.0 (FTI)
+91#2507	 Sanitiser dispenser
+91#2508	 Hygiene training for staff
+91#2509	 Health checks on staff
+91#2510	 staysafe® hygiene label (powered by cooperation partner of TÜV SÜD)
+91#2512	 SAFE TOURISM (Lloyd’s Register)
+91#2513	 Intensified room cleaning
+91#2514	 Use of commercially available disinfectants
+91#2515	 Hand hygiene training for employees
+91#2516	 Protective equipment for employees
+91#2517	 Additional safety measures in catering
+91#2518	 Additional hygiene measures in catering
+91#2519	 Packaged meals
+91#2520	 Disposable cutlery
+91#2521	 Disposable menus
+91#2522	 No high-touch furnishings in public areas
+91#2523	 No high-touch furnishings
+91#2524	 Digital room access
+91#2525	 Disinfection of plastic key card
+91#2526	 Time interval between room bookings
+91#2527	 Hygiene set
+91#2528	 Protective equipment for guests
+91#2529	 Wellness facilities with private area
+91#41	Spain - Safe Tourism Certified
+91#42	Portugal - Clean and Safe
+91#43	Singapore - SG Clean
+91#44	Switzerland- Protection plan for hotel businesses against COVID-19
+91#45	Greece - Health First
+91#46	Turkey - Safe Tourism Certificate
+91#47	Poland - Hotels and other accommodation Guidelines
+91#48	Gargallo - Feel Safe
+91#49	Millennium & Copthorne - We Clean. We Care. We Welcome
+91#50	Rosen - Total Commitment
+91#51	Globales - Protocol COVID-19
+91#52	Caesars - Health and Safety protocols
+91#53	BlueBay - Clean & Care
+91#54	Diamond - Standard of Clean
+91#55	Shangri-La â€“ Shangri-La Cares
+91#56	Jurys Inn - Stay Safe, Stay Happy
+91#57	TFE - Clean Touch
+91#58	Playa Resorts - Playa Stay Safe
+91#59	Westgate - WestgateCARESÂ 
+91#60	Highgate - Be Well. Stay Well.
+91#61	AM - Clean Complete Verification
+91#62	Dedeman - Stay Safe
+91#63	GHG - COVID-19 Prevention
+91#65	ABBA - Safety Plan
+91#66	Logis - Commitments charter for a Safer Stay
+91#67	Posadas - Viaja con confianza
+91#68	Reddoorz - HygienePass
+91#69	Swiss Belhotel - 10 Commitments Health, Safety & Hygiene
+91#70	Minor - AvaniSHIELD
+91#71	Rydges - Got it Sorted
+91#72	Oaks - SureStay Program
+91#73	Bayan Tree - SafeSanctuary Programme
+91#74	Centara - Complete Care
+91#75	Onyx - Onyx Clean
+91#76	Pan Pacific - Pan Pacific Cares
+91#77	Roseewood - Commitment to Care
+91#78	Croatia - Recommendations for hotels and renters during the COVID-19
+91#79	Cyprus -Precautionary measures against the spread of COVID-19 for Hotel and Tourist Accomm. Managers
+91#80	Czeck Republic - Stay Safe
+91#81	Northern Ireland - Guidance for hotels and accommodation
+91#82	Austria - COVID-19 Lockerungsverordnung
+91#83	Dominican Republic - Protocolo Sectorial Turismo
+91#84	Luxembourg - HORESCA Safe to Serve
+91#85	Netherlands - Horeca Protocol Hospitality Industry Reopening
+91#86	Peru - Protocolo sanitario sectorial ante el Covid-19 para hoteles categorizados
+91#87	Egypt - Life, Prosperity, Health
+91#88	Argentina - Protocolo COVID-19 para Alojamientos turÃ­sticos
+91#89	Brazil - Turismo Responsavel limpo e seguro
+91#90	Ecuador - Protocolo General para establecimientos de alojamiento turÃ­stico
+91#91	Hungary- Information for Operators of Commercial Accommodation
+91#92	Chile - Protocolo general de Manejo y PrevenciÃ³n ante COVID-19 en el sector Turismo y Alojamiento
+91#93	Mexico - CertificaciÃ³n en ProtecciÃ³n y PrevenciÃ³n Sanitaria en Instalaciones TurÃ­sticas (CPPSIT)
+91#94	The Philippines - Guidelines for Accommodation Establishments
+91#95	Thailand - Amazing Thailand Safety & Health Administration (SHA)
+91#96	Hotelbeds - Supplier Guidelines
+91#97	Other Protocol
+91#98	OYO - Sanitised Stays
+91#99	Pierre et Vacances - Safety + Charter
+91#100	Morocco - Tourisme au Maroc post Covid-19
+91#101	Mauritius - Sanitary Measures in the Tourism Sector
+91#102	Qatar - Clean Program
+91#103	South Africa - Tourism Industry Standard Protocols
+91#104	Fiji - Covid Safe Guideline for Tourism Industry
+91#105	Australia - We\'re Covid Safe
+91#106	B&B Ireland - Care Policy
+91#107	Uruguay - Protocolo Nacional para la ReactivaciÃ³n de la Actividad TurÃ­stica
+91#108	Ireland - Guidelines for re-opening Hotels and Guesthouses
+91#109	Dubai- Dubai Assured
+91#110	WTTC - Safe Travels Stamp
+91#111	United Kingdom - We\'re good to go
+91#112	Tunisia - Protocole Sanitaire por le Tourismo Tunisien Anti Covid-19
+91#113	Jamaica - Jamaica Tourism Covid-19 Protocols
+91#114	Marriott - Commitment to Clean
+91#115	Disneyland Paris - Enhanced health and safety measures
+91#116	Sandals - Platinum Protocol Of Cleanliness During COVID-19
+100#10	1
+100#20	2
+100#30	3
+100#40	4
+100#50	5
+1001#3	 Hotel Chain
+1001#6	 Postcode
+1001#8	 Telephone Reservation
+1001#9	 Telephone Management
+1001#11	 Email
+1001#12	 URL
+1001#234	 Telephone Hotel
+1001#2511	 Accommodation temporarily closed
+1002#16	Category (Official)
+1002#17	Category (Recommended)
+1006#59	 Sandy Beach
+1006#60	 Pebble Beach
+1006#61	 Rocky Beach
+1006#62	 Sun loungers
+1006#63	 Parasols
+1006#64	 Directly by the beach
+1006#65	 Separated by road from beach
